@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\employeemanagementbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\employeemanagementbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\employeemanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\employeemanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|e:\\04git\\repos\\employeemanagement\\employeemanagementbackend\\employeemanagementbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E444D234-E546-4BBF-B9A8-C7AFE7D147FF}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagementBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T10:56:53.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:36:41.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:18:10.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:00:52.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Program.cs",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:40:00.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:34:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\Employee.cs",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:00:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeManagementBackend",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "RelativeToolTip": "EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T20:59:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManagementBackend",
+              "DocumentMoniker": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "ToolTip": "E:\\04git\\repos\\EmployeeManagement\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "RelativeToolTip": "EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T20:57:43.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
